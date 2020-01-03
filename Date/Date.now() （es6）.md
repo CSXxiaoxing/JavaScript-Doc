@@ -6,7 +6,7 @@
 | :---------------------------: | :--: |
 | **let** timestamp = Date.now() |  无  |
 
-> demo：
+> Demo：
 
 ```
  let timestamp = Date.now()
