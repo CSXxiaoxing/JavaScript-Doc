@@ -21,7 +21,7 @@
 
    输出展示：
 
-![img](./images/35991994828685eb13a3db44e93a6e3.png)
+![img](../assets/35991994828685eb13a3db44e93a6e3.png)
 
 
 
