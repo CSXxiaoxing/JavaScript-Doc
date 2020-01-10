@@ -20,4 +20,5 @@
 | join                        | 将数组中所有元素以参数作为分隔符放入一个字符 |
 | slice                       | slice(start,end)，返回选定元素               |
 | map, filter, some, every 等 | 迭代方法不改变原数组                         |
+| flat                        | 扁平化数组                                   |
 
